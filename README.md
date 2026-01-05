@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @AbuhatemAli
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on Laravel
-- 📫 How to reach me abuhatemali77555@gmail.com
+- 👀 I have two years of experience in PHP and Laravel.
+-  i have three years and Flutter and Dart.
+- 🌱 I’m currently learning Python and django.
+- 💞️ I’m looking to collaborate on Flutter and Laravel
+- 📫 How to reach me aliabuhatem966@gmail.com
+- +201015915194
 
 
 <!---
