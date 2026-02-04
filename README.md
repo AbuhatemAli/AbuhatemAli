@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbuhatemAli
 - 👀 I have two years of experience in PHP and Laravel.
--  i have three years and Flutter and Dart.
+-  i have three years in Flutter and Dart.
 - 🌱 I’m currently learning Python and django.
 - 💞️ I’m looking to collaborate on Flutter and Laravel
 - 📫 How to reach me aliabuhatem966@gmail.com
